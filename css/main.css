@@ -1,0 +1,359 @@
+
+
+body{
+  background-image: url(../images/motif-de-fond.svg);
+  font-family: 'Bubblegum Sans', cursive;
+  background-color:#9BD1AC;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.video {
+ text-align: center;
+ padding-top: 100px;
+}
+.video-spock {
+ text-align: center;
+ padding-top: 100px;
+ margin-left: 120px;
+}
+
+
+
+
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.motif img{
+  margin: auto;
+      display: flex;
+
+
+
+}
+
+
+
+.logo1{
+
+  margin-top: 100px;
+    margin-bottom:  100px;
+
+}
+.logo1 img{
+
+  margin: auto;
+      display: flex;
+}
+
+
+.chapeau1{
+  margin-left: 400px;
+  margin-right: 200px;
+  width: 300px;
+  margin-top: 100px;
+}
+
+.chopstick1{
+  width: 300px;
+  margin-top: 100px;
+}
+
+.spock1{
+  margin-left: 440px;
+  margin-right: 440px;
+  width: 300px;
+  margin-top: 100px;
+}
+
+.debut {
+  margin-top: 20px;
+  color: #FFFFFF;
+  font-size: 30px;
+}
+
+/* .debut-chinois{
+  margin-top: 5px;
+  text-align: center;
+  margin-left: -40px;
+  margin-right: -40px;
+  width: 280px;
+  color: #FFFFFF;
+  margin-top: 100px;
+  font-size: 23px;
+}
+
+.debut-chopstick{
+text-align: center;
+margin-left: 350px;
+margin-right: 350px;
+width: 280px;
+color: #FFFFFF;
+margin-top: -10px;
+font-size: 23px;
+}
+
+.debut-spock{
+text-align: center;
+margin-left: 600px;
+margin-right: 600px;
+width: 280px;
+color: #FFFFFF;
+margin-top: -10px;
+font-size: 23px;
+}*/
+
+
+.texte-acceuil{
+  text-align: center;
+margin-left: 100px;
+margin-right: 100px;
+width: 280px;
+color: #FFFFFF;
+margin-top: 200px;
+font-size: 30px;
+}
+
+
+
+
+
+.fond-spock{
+  background-color: #F4A3A5;
+  }
+  .texte1-spock {
+    text-align: center;
+  margin-left: 450px;
+  margin-right: 450px;
+  width: 280px;
+  color: #FFFFFF;
+  margin-top: 100px;
+  font-size: 23px;
+  }
+
+  .texte2-spock {
+    text-align: center;
+  margin-left: 200px;
+  margin-right: 450px;
+  width: 280px;
+  color: #FFFFFF;
+  margin-top: 100px;
+  font-size: 23px;
+  }
+
+  .texte3-spock {
+    text-align: center;
+  margin-left: 700px;
+  margin-right: 450px;
+  width: 280px;
+  color: #FFFFFF;
+  margin-top: -120px;
+  font-size: 23px;
+  }
+
+
+
+  .texte4-spock {
+    text-align: center;
+  margin-left: 200px;
+  margin-right: 450px;
+  width: 280px;
+  color: #FFFFFF;
+  margin-top: 100px;
+  font-size: 23px;
+  }
+
+  .texte5-spock {
+    text-align: center;
+  margin-left: 500px;
+  margin-right: 450px;
+  width: 280px;
+  color: #FFFFFF;
+  margin-top: -120px;
+  font-size: 23px;
+  }
+
+  .fond-spock {
+    background-color:#F4A3A5;
+  }
+
+  .illu-4 {
+    margin-left: 440px;
+    margin-right: 440px;
+    width: 300px;
+    margin-top: 100px;
+  }
+
+  .illu-5 {
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 300px;
+    margin-top: 100px;
+  }
+  .illu-6{
+    width: 300px;
+    margin-top: 100px;
+  }
+
+  .illu-7 {
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 300px;
+    margin-top: 100px;
+  }
+  .illu-8{
+    width: 300px;
+    margin-top: 100px;
+  }
+
+  .illu-10 {
+    margin-left: -500px;
+    width: 500px;
+    margin-top: 100px;
+  }
+
+  .logo-spock{
+    margin-left: 480px;
+    margin-right: 480px;
+    margin-top: 40px;
+  }
+
+  .logobis-spock{
+    margin-left: 440px;
+    margin-right: 490px;
+  margin-top: 60px;
+  width: 300px;
+  }
+
+
+
+
+
+
+
+
+
+
+.texte1-chopstick {
+text-align: center;
+margin-left: 200px;
+margin-right: 200px;
+color: #FFFFFF;
+margin-top: 100px;
+font-size: 23px;
+}
+
+.texte2-chopstick {
+text-align: center;
+margin-left: 200px;
+margin-right: 200px;
+color: #FFFFFF;
+margin-top: 100px;
+font-size: 23px;
+}
+
+.texte3-chopstick {
+text-align: center;
+margin-left: 200px;
+margin-right: 200px;
+color: #FFFFFF;
+margin-top: 100px;
+font-size: 23px;
+}
+
+.texte4-chopstick {
+text-align: center;
+margin-left: 200px;
+margin-right: 200px;
+color: #FFFFFF;
+margin-top: 100px;
+font-size: 23px;
+}
+
+.fond-chopstick {
+  background-color:#633163;
+}
+
+.illu-12 {
+  margin-left: 440px;
+  margin-right: 440px;
+  width: 300px;
+  margin-top: 100px;
+}
+
+.illu-13 {
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 300px;
+  margin-top: 100px;
+}
+.illu-14{
+  width: 300px;
+  margin-top: 100px;
+}
+
+.illu-15 {
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 300px;
+  margin-top: 100px;
+}
+.illu-16{
+  width: 300px;
+  margin-top: 100px;
+}
+
+.logo-chopstick{
+  margin-left: 480px;
+  margin-right: 480px;
+  margin-top: 40px;
+}
+
+.logobis-chopstick{
+  margin-left: 490px;
+  margin-right: 490px;
+margin-top: 60px;
+width: 180px;
+}
+
+
+
+
+
+
+.texte1-chinois {
+text-align: center;
+margin-left: 200px;
+margin-right: 200px;
+color: #FFFFFF;
+margin-top: 100px;
+font-size: 23px;
+}
+
+.logo-chinois{
+  margin-left: 480px;
+  margin-right: 480px;
+  margin-top: 40px;
+}
+
+.logobis-chinois{
+  margin-left: 490px;
+  margin-right: 490px;
+margin-top: 60px;
+width: 180px;
+}
+
+
+.illu-20 {
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 300px;
+  margin-top: 100px;
+}
+.illu-21{
+  width: 300px;
+  margin-top: 100px;
+}
